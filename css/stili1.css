@@ -1,0 +1,24 @@
+h1{
+	color:#cda434;
+	font-family:impact;
+}
+
+.barramenu{
+	height:1%;
+	line-height: 1%;
+	width:100%;
+}
+
+.footer{
+	text-align:center;
+	color:white;
+}
+
+button{
+	background-color:black;
+	color:white;
+	font-size:30px;
+	padding:20px;
+	margin-left:5%
+}
+
